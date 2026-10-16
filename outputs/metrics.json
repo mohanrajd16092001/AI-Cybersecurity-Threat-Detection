@@ -1,0 +1,7 @@
+{
+  "test_records": 22544,
+  "accuracy": 0.7767033356990773,
+  "attack_precision": 0.9689717378232111,
+  "attack_recall": 0.6278344892075118,
+  "attack_f1": 0.7619633062228107
+}
